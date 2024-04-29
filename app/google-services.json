@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843836663139",
+    "project_id": "pasabike-d7528",
+    "storage_bucket": "pasabike-d7528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843836663139:android:b4a4b61b43a48734635f56",
+        "android_client_info": {
+          "package_name": "com.example.pasabike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843836663139-ckar7kofrhqr3p7df8ihp3e5aab1agcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDM4DBEOp-sCsvlhu-3JZ_X3yRrS4VzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843836663139-ckar7kofrhqr3p7df8ihp3e5aab1agcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
